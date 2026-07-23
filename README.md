@@ -1,6 +1,7 @@
 # Smart Password Generator
 
-#### Video Demo: https://YOUR_VIDEO_LINK_HERE
+#### Video Demo: 
+https://youtu.be/lF1mJzUC9nI?si=B9j3FwHKAqTcNO9-
 
 #### Live Demo: https://saudqxx.github.io/Smart-Password-Generator/
 
